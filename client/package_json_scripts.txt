@@ -1,0 +1,3 @@
+//"start": "webpack-dev-server --config webpack.config.js --open",
+    // "dev": "set NODE_OPTIONS=--openssl-legacy-provider &&vue-cli-service serve"
+    package.json文件里script多的内容
